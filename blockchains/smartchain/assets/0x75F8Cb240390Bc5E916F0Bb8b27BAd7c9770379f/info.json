@@ -1,0 +1,11 @@
+{
+  "name": "Chainstock.org",
+  "website": "https://chainstock.org",
+  "description": "Chainstock (CS) is a utility token for the Chainstock crypto trading platform.",
+  "explorer": "https://bscscan.com/token/0x75F8Cb240390Bc5E916F0Bb8b27BAd7c9770379f",
+  "type": "BEP20",
+  "symbol": "CS",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x75F8Cb240390Bc5E916F0Bb8b27BAd7c9770379f"
+}
